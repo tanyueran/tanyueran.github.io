@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/antd.min.css"
   },
   {
-    "revision": "9f2315598d75fd1936ba",
+    "revision": "1470d85919fa78814eae",
     "url": "/css/app.0449d763.css"
   },
   {
-    "revision": "b234516779086797f0923099ebf87609",
+    "revision": "4351c7f9670562c0e02d5e3498fd9bcd",
     "url": "/index.html"
   },
   {
-    "revision": "9f2315598d75fd1936ba",
-    "url": "/js/app.cb560771.js"
+    "revision": "1470d85919fa78814eae",
+    "url": "/js/app.f0407e9f.js"
   },
   {
     "revision": "90b66a5fedfad299fc94",
