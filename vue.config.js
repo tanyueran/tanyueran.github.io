@@ -1,6 +1,7 @@
-const webpack = require('webpack')
 const semver = require('semver')
 const dependencies = require('./package.json').dependencies
+const version = require('./package.json').version
+// 是否正式环境
 const IS_PRO = process.env.NODE_ENV !== 'development'
 
 const getVersion = (dependencies => packageName => {
@@ -41,6 +42,7 @@ module.exports = {
   chainWebpack (config) {
     config.plugin('html').tap(args => {
       IS_PRO && (args[0].cdn = cdn)
+      IS_PRO && (args[0].info = `version:${version} date:${new Date().toLocaleString()}`)
       return args
     })
   }
