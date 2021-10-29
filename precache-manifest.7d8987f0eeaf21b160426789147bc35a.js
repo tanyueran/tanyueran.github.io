@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/antd.min.css"
   },
   {
-    "revision": "1470d85919fa78814eae",
+    "revision": "9f2315598d75fd1936ba",
     "url": "/css/app.0449d763.css"
   },
   {
-    "revision": "8aa0067a254dbcb4f35fe2bd68a58278",
+    "revision": "b234516779086797f0923099ebf87609",
     "url": "/index.html"
   },
   {
-    "revision": "1470d85919fa78814eae",
-    "url": "/js/app.f0407e9f.js"
+    "revision": "9f2315598d75fd1936ba",
+    "url": "/js/app.cb560771.js"
   },
   {
     "revision": "90b66a5fedfad299fc94",
@@ -26,9 +26,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "856fc043a55566749e67c654b84bda02",
     "url": "/manifest.json"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
   }
 ]);

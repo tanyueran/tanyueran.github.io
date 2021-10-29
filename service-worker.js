@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8ec5f8b9f48b03347924a7972c14f82e.js"
+  "/precache-manifest.7d8987f0eeaf21b160426789147bc35a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tanyueran.github.io"});
